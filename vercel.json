@@ -3,6 +3,5 @@
   "buildCommand": "next build",
   "devCommand": "next dev",
   "installCommand": "npm install",
-  "regions": ["sin1"],
-  "rootDirectory": "src"
+  "regions": ["sin1"]
 }
